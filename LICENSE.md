@@ -1,4 +1,4 @@
-# 
+# custom CrossOver for macOS Script | network-configuration + 3D-graphics-support offers the most advanced CrossOver for macOS script, with network-configuration and
 
 
 
